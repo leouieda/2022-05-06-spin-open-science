@@ -12,25 +12,24 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may be kind of boring and more than one line long
+  Getting started with Open Science
 </h1>
 <p id="talk-authors">
-  <span id="talk-speaker">Leonardo Uieda</span>,
-  Author Two,
-  and
-  Author Three
+  Leonardo Uieda
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
 <div class="row talk-info">
 <div class="col-large">
 
-Event/host of the talk | XX Month 202X
+<i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i> 06 May 2022
+<span style="margin: 0 20px">/</span>
+SPIN-ITN: Seismological Parameters and Instrumentation
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
 Feel free to screenshot/share/reuse this presentation
-|
+<span style="margin: 0 20px">/</span>
 <a href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by" style="margin: 0 10px 0 2px"></i> CC-BY 4.0 License</a>
 
 </div>
@@ -39,11 +38,63 @@ Feel free to screenshot/share/reuse this presentation
 <!-- Add logos here. Need these wrappers to align them to the bottom right -->
 <div class="talk-logos-container">
 <div class="talk-logos">
-  <img src="assets/compgeolab-banner-light.svg">
-  <br>
-  <img src="assets/university-of-liverpool-white.png">
+  <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
+  <a href=""><img src="assets/university-of-liverpool-white.png" alt="University of Liverpool">
 </div>
 </div>
+
+</div>
+</div>
+
+===============================================================================
+
+<!-- .slide: data-background-video="assets/brasil-sao-paulo-rio.mp4" data-background-size="contain" data-background-color="#000000" -->
+
+<div class="r-stretch">
+</div>
+<div class="footnote-left">
+
+I'm from a small town called Botucatu in São Paulo, Brazil
+<br>
+Did my BSc in São Paulo and MSc/PhD in Rio, all in Geophysics
+
+</div>
+
+===============================================================================
+
+<!-- .slide: data-background-image="assets/sao-paulo.svg" data-background-size="contain" data-background-color="#000000" -->
+
+<div class="r-stretch">
+</div>
+<div class="footnote-left">
+
+I'm from a small town called Botucatu in São Paulo, Brazil
+<br>
+Did my BSc in São Paulo and MSc/PhD in Rio, all in Geophysics
+
+</div>
+
+===============================================================================
+
+<div class="container centered">
+<div class="col-medium tiny">
+
+<video style="width: 85%" muted data-autoplay loop>
+<source data-src="assets/planting-inversion.mp4" type="video/mp4"/>
+</video>
+
+Planting method of gravity & magnetic inversion
+<br>
+([Uieda & Barbosa, 2012](https://doi.org/10.1190/geo2011-0388.1))
+
+</div>
+<div class="col large">
+
+# 🎩 Research
+
+Gravity & magnetics
+
+(👈🏽 MSc project)
 
 </div>
 </div>
@@ -117,19 +168,6 @@ background isn't cropped.
 <br>
 It's a good idea to add alt-text to this footnote if the background is
 important.
-
-</div>
-
-===============================================================================
-
-<!-- .slide: data-background-video="assets/brasil-sao-paulo-rio.mp4" data-background-size="contain" data-background-color="#000000" -->
-
-<div class="r-stretch">
-</div>
-<div class="footnote">
-
-This is how you use a video background.
-The video auto starts when flipping to this slide.
 
 </div>
 

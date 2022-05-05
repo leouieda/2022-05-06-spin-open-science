@@ -10,10 +10,6 @@
 @lightcolor: #ffffff;
 @darkcolor: #333333;
 @gutter: 25px;
-@font_main: "Computer Modern Serif";
-@font_footnote: "Source Sans Pro";
-@font_title: "Computer Modern Serif";
-@font_code: "Computer Modern Typewriter";
 
 // Make the KaTeX font size the same as the text size (default is slightly
 // larger)
@@ -94,14 +90,12 @@
     p {
       background-color: #eeeeee;
       color: @darkcolor;
-      font-family: @font_footnote;
       padding: 15px 25px;
       margin: 0 !important;
       box-shadow: 4px 3px 3px #00000033;
       text-align: left;
       a {
         color: @darkcolor;
-        font-family: @font_footnote;
         text-decoration: underline;
       }
     }
@@ -172,7 +166,6 @@
   .slide-title {
     text-align: left;
     p, a, h1 {
-      font-family: @font_title;
     }
     a {
       color: @lightcolor;
@@ -185,16 +178,14 @@
     }
     h1#talk-title {
       margin: 0 auto;
-      text-shadow: 3px 3px 10px #00000033;
-      font-size: @basefontsize * 1.7;
+      font-size: @basefontsize * 2.25;
       line-height: @basefontsize * 2.5;
       text-transform: none;
     }
     p#talk-authors {
-      font-size: @basefontsize * 0.7;
-      line-height: @basefontsize * 0.7;
-      text-shadow: 2px 2px 5px #00000066;
-      margin: 50px 0;
+      font-size: @basefontsize ;
+      line-height: @basefontsize;
+      margin: 80px 0;
     }
     #talk-speaker {
       text-decoration: underline;
@@ -212,7 +203,7 @@
           left: 0;
           text-align: right;
           img {
-            height: 1.0em;
+            height: 1.5em;
             width: auto;
             margin: 0 2%;
           }
@@ -244,7 +235,6 @@
   // ========================================================================
   font-size: @basefontsize;
   p, a, ul, ol, h1, h2, h3 {
-    font-family: @font_main;
   }
   section {
     .nomargin {
@@ -310,7 +300,6 @@
     margin-bottom: 2rem;
   }
   code {
-    font-family: @font_code;
   }
   pre {
     margin-top: 0;
