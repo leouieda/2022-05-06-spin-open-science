@@ -39,7 +39,7 @@ Feel free to screenshot/share/reuse this presentation
 <div class="talk-logos-container">
 <div class="talk-logos">
   <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
-  <a href=""><img src="assets/university-of-liverpool-white.png" alt="University of Liverpool">
+  <a href="https://www.liverpool.ac.uk/"><img src="assets/university-of-liverpool-white.png" alt="University of Liverpool">
 </div>
 </div>
 
@@ -76,27 +76,113 @@ Did my BSc in São Paulo and MSc/PhD in Rio, all in Geophysics
 
 ===============================================================================
 
-<div class="container centered">
+<div class="enormous r-stretch centered">
+<div>
+
+🎩 🎓 👒
+
+</div>
+</div>
+<div class="footnote-left">
+
+As part of my job, I wear many hats (too many sometimes)
+
+</div>
+
+===============================================================================
+
+<div class="centered row r-stretch">
 <div class="col-medium tiny">
 
-<video style="width: 85%" muted data-autoplay loop>
+<video style="width: 100%" muted data-autoplay loop>
 <source data-src="assets/planting-inversion.mp4" type="video/mp4"/>
 </video>
-
-Planting method of gravity & magnetic inversion
-<br>
-([Uieda & Barbosa, 2012](https://doi.org/10.1190/geo2011-0388.1))
 
 </div>
 <div class="col large">
 
-# 🎩 Research
+<div class="huge">
 
-Gravity & magnetics
-
-(👈🏽 MSc project)
+🎩
 
 </div>
+
+# Research
+
+Inverse problems in gravity & magnetics
+
+</div>
+</div>
+<div class="footnote-left">
+
+👆🏽 **MSc project:** Planting method of gravity & magnetic inversion
+([Uieda & Barbosa, 2012](https://doi.org/10.1190/geo2011-0388.1))
+
+</div>
+
+===============================================================================
+
+<div class="row centered r-stretch">
+<div class="col-medium tiny">
+
+<video style="width: 100%" muted data-autoplay loop>
+<source data-src="assets/teaching-montaj-2022.mp4" type="video/mp4"/>
+</video>
+
+</div>
+<div class="col large">
+
+<div class="huge">
+
+🎓
+
+</div>
+
+# Teaching
+
+Global geophysics, inverse problems, remote sensing, programming
+
+</div>
+</div>
+<div class="footnote-left">
+
+A sample of my teaching activities, usually involving coding
+(see [leouieda.com/teaching](https://www.leouieda.com/teaching) for more)
+
+</div>
+
+===============================================================================
+
+<div class="row centered r-stretch">
+<div class="col-medium tiny">
+
+<video style="width: 100%" muted data-autoplay loop>
+<source data-src="assets/oss-montaj-2022.mp4" type="video/mp4"/>
+</video>
+
+</div>
+<div class="col large">
+
+<div class="huge">
+
+👒
+
+</div>
+
+# Fun
+
+Open-source software:
+[Fatiando a Terra](https://www.fatiando.org),
+[GMT](https://www.generic-mapping-tools.org),
+[Nēnē](https://nene.leouieda.com/)
+
+</div>
+</div>
+<div class="footnote-left">
+
+I work on open-source whenever I have some spare time
+(see [leouieda.com/software](https://www.leouieda.com/software))
+
 </div>
 
 ===============================================================================

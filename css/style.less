@@ -25,6 +25,12 @@
   // ========================================================================
 
   // Make elements inside this div have larger or smaller font-size
+  .enormous {
+    p, a, ul, ol {
+      font-size: @basefontsize * 4 !important;
+      line-height: @basefontsize * 5 !important;
+    }
+  }
   .huge {
     p, a, ul, ol {
       font-size: @basefontsize * 2 !important;
@@ -71,6 +77,7 @@
     height: 100%;
     & > div {
       margin-bottom: -3rem;
+      text-align: center;
     }
   }
 
