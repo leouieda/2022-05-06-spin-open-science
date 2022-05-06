@@ -16,6 +16,11 @@ The reveal.js configuration can be found in index.html
 </h1>
 <p id="talk-authors">
   Leonardo Uieda
+  <span style="font-size: 36px; margin-left: 50px">
+    <i class="fab fa-twitter" style="margin: 0 10px 0 0"></i><a href="https://twitter.com/leouieda">@leouieda</a>
+    <span style="margin: 0 20px">/</span>
+    <i class="fab fa-mastodon" style="margin: 0 10px 0 0"></i><a href="https://scicomm.xyz/web/@leouieda">@leouieda@scicomm.xyz</a>
+  </span>
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
