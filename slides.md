@@ -223,6 +223,10 @@ I work on open-source whenever I have some spare time
 
 ===============================================================================
 
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/5189c4991874d191c79c252cb913820d/b4276fc9d419/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+===============================================================================
+
 <h1 id="definition">What do you mean by open?</h1>
 
 [FAIR](https://doi.org/10.1038/sdata.2016.18) is a better term
