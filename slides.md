@@ -94,14 +94,14 @@ As part of my job, I wear many hats (too many sometimes)
 <div class="centered row r-stretch">
 <div class="col-medium tiny">
 
-<video style="width: 100%" muted data-autoplay loop>
+<video style="width: 80%" muted data-autoplay loop>
 <source data-src="assets/planting-inversion.mp4" type="video/mp4"/>
 </video>
 
 </div>
 <div class="col large">
 
-<div class="huge">
+<div class="enormous">
 
 🎩
 
@@ -115,7 +115,7 @@ Inverse problems in gravity & magnetics
 </div>
 <div class="footnote-left">
 
-👆🏽 **MSc project:** Planting method of gravity & magnetic inversion
+👆🏽 MSc project: Planting method of gravity & magnetic inversion
 ([Uieda & Barbosa, 2012](https://doi.org/10.1190/geo2011-0388.1))
 
 </div>
@@ -132,7 +132,7 @@ Inverse problems in gravity & magnetics
 </div>
 <div class="col large">
 
-<div class="huge">
+<div class="enormous">
 
 🎓
 
@@ -163,7 +163,7 @@ A sample of my teaching activities, usually involving coding
 </div>
 <div class="col large">
 
-<div class="huge">
+<div class="enormous">
 
 👒
 
@@ -183,6 +183,13 @@ Open-source software:
 I work on open-source whenever I have some spare time
 (see [leouieda.com/software](https://www.leouieda.com/software))
 
+</div>
+
+===============================================================================
+
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'>
+<iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/467a848503b8d05e8356b77a347d5cae/2e0fe384e341/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe>
 </div>
 
 ===============================================================================
@@ -480,7 +487,7 @@ Makes this map 👇
 <div class="r-stretch centered">
 <div class="huge">
 
-Find out more:
+Find out more and get in touch:
 
 [www.leouieda.com](https://www.leouieda.com)
 
@@ -505,7 +512,7 @@ White dots are on the right are offshore wind turbines.
 
 Source code for this presentation:
 <br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+[github.com/leouieda/2022-05-06-spin-open-science](https://github.com/leouieda/2022-05-06-spin-open-science)
 
 
 <p class="license-icons" style="margin-top: 5rem;">
