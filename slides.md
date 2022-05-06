@@ -256,17 +256,20 @@ I work on open-source whenever I have some spare time
 
 Licenses determine **what can be done** and under which **conditions**
 
-**How to use one:**
-
 1. Choose a license ([code](https://choosealicense.com/) or [everything else](https://creativecommons.org/choose/))
 1. Add a `LICENSE` file with the license text
 1. State the license name and link in a `README` or website footer
 
 **Important:** Don't modify/customise the license text.
 
+**Recommendation:** Avoid **non-commercial** restrictions (CC-BY-NC).
+<br>
+Definition is vague and there is **no special exemption for
+research/teaching**.
+
 <div class="r-stretch">
 </div>
-<div class="tiny lefted">
+<div class="footnote-left">
 
 🚨 **NOT A LAWYER** 🚨 (so take this with a grain of salt)
 
@@ -288,19 +291,9 @@ Licenses determine **what can be done** and under which **conditions**
 
 <div class="r-stretch">
 </div>
-<div class="tiny lefted">
-
-💰 Resist the temptation to apply **non-commercial** restrictions (CC-BY-NC).
-Definition of "commercial" is vague and there is **no special exemption for
-research/teaching**.
-
-🚨 **NOT A LAWYER** 🚨 (so take this with a grain of salt)
-
-</div>
 <div class="footnote-left">
 
-<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
-[Back to the Topics](#toc)
+🚨 **NOT A LAWYER** 🚨 (so take this with a grain of salt)
 
 </div>
 
@@ -327,20 +320,13 @@ Submit to a repository after journal review (may be embargo).
 <br>
 [ArXiv](https://arxiv.org/) (the original, mostly physics)
 
-**Why publish?** Open-access for all on the cheap/free. Google Scholar finds PDFs.
+**Why publish?** Open-access for all on the cheap/free.
+<br>
+Use Google Scholar or [OA button](https://openaccessbutton.org/) to find them.
 
 **Can you publish?**
 Need to check journal policy.
 Start with the [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) tool.
-
-<div class="r-stretch">
-</div>
-<div class="footnote-left">
-
-<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
-[Back to the Topics](#toc)
-
-</div>
 
 ===============================================================================
 
@@ -350,6 +336,20 @@ Start with the [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) tool.
 ===============================================================================
 
 <h1 id="openaccess">The colours of open-access</h1>
+
+💚 **Green:** Publish in a close-access journal but post a [preprint or postprint](#preprint)
+
+💛 **Gold:** Entire journal is open-access but charges an Article Processing Charge (APC)
+
+🪙 **Gold (hybrid):** Only papers paying APCs are open, rest are closed
+<br>
+(basically a scam for journals to double-dip)
+
+💎 **Diamond:** Entire journal is open-access and there are no APCs
+<br>
+(often community-led, this is the way to go, see [Seismica](https://seismica.org/))
+
+**Watch out for:** You retain the copyright and [avoid non-commercial licenses](#license)
 
 ===============================================================================
 
@@ -376,15 +376,6 @@ that you modified (see license terms).
 **How to publish:** Check with **all co-authors first**, [choose a license](#license),
 upload to repository (on submit or accept), cite in your paper using the DOI.
 
-<div class="r-stretch">
-</div>
-<div class="footnote-left">
-
-<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
-[Back to the Topics](#toc)
-
-</div>
-
 ===============================================================================
 
 <i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
@@ -394,14 +385,6 @@ upload to repository (on submit or accept), cite in your paper using the DOI.
 
 <h1 id="code">Making open-source software</h1>
 
-<div class="r-stretch">
-</div>
-<div class="footnote-left">
-
-<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
-[Back to the Topics](#toc)
-
-</div>
 
 ===============================================================================
 
