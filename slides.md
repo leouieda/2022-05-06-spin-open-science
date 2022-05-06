@@ -216,6 +216,7 @@ I work on open-source whenever I have some spare time
 * [What do you mean by "open"?](#definition)
 * [The license zoo](#license)
 * [Preprints & postprints](#preprint)
+* [The colours of open-access](#openaccess)
 * [Publishing your data](#data)
 * [Making open-source software](#code)
 * [Leo, shut up and listen](#qna)
@@ -311,6 +312,26 @@ research/teaching**.
 ===============================================================================
 
 <h1 id="preprint">Preprints & postprints</h1>
+
+**Preprint:** Version of a paper before peer-review.
+<br>
+Submit to a repository along with journal.
+
+**Postprint:** Version of a paper after peer-review but before copy-editing.
+<br>
+Submit to a repository after journal review (may be embargo).
+
+**Where to publish:**
+[EarthArXiv](https://eartharxiv.org/) (community),
+[ESSOAr](https://www.essoar.org/) (AGU/Wiley),
+<br>
+[ArXiv](https://arxiv.org/) (the original, mostly physics)
+
+**Why publish?** Open-access for all on the cheap/free. Google Scholar finds PDFs.
+
+**Can you publish?**
+Need to check journal policy.
+Start with the [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) tool.
 
 <div class="r-stretch">
 </div>
