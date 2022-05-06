@@ -224,9 +224,24 @@ I work on open-source whenever I have some spare time
 
 <h1 id="definition">What do you mean by open?</h1>
 
-* bla
+[FAIR](https://doi.org/10.1038/sdata.2016.18) is a better term
+
+**Findable:** On the internet, with a DOI, indexed, searchable
+
+**Accessible:** Download with standard open protocols, keep at least metadata
+
+**Interoperable:** Read with standard open formats, link to other data
+
+**Reusable:** Has an open license, meets community standards, provenance info
 
 <div class="r-stretch">
+</div>
+<div class="tiny lefted">
+
+\* Originally for data but generally applicable
+|
+\*\* [Being adapted for code](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs)
+
 </div>
 <div class="footnote-left">
 
