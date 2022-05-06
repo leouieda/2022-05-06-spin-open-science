@@ -236,11 +236,64 @@ I work on open-source whenever I have some spare time
 
 <div class="r-stretch">
 </div>
-<div class="tiny lefted">
+<div class="footnote-left">
 
 \* Originally for data but generally applicable
 |
 \*\* [Being adapted for code](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs)
+
+</div>
+
+===============================================================================
+
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
+
+===============================================================================
+
+<h1 id="license">The license zoo</h1>
+
+Licenses determine **what can be done** and under which **conditions**
+
+**How to use one:**
+
+1. Choose a license ([code](https://choosealicense.com/) or [everything else](https://creativecommons.org/choose/))
+1. Add a `LICENSE` file with the license text
+1. State the license name and link in a `README` or website footer
+
+**Important:** Don't modify/customise the license text.
+
+<div class="r-stretch">
+</div>
+<div class="tiny lefted">
+
+🚨 **NOT A LAWYER** 🚨 (so take this with a grain of salt)
+
+</div>
+
+===============================================================================
+
+<h1>The license zoo: Types</h1>
+
+**Permissive** (BSD, MIT, CC-BY):
+
+* **What:** Use for anything (including closed or commercial)
+* **Conditions:** Give attribution (original authors and license)
+
+**Copyleft** (GPL, CC-BY-SA):
+
+* **What:** Use for anything (including commercial but not closed)
+* **Conditions:** Give attribution (original authors and license) and use same license
+
+<div class="r-stretch">
+</div>
+<div class="tiny lefted">
+
+💰 Resist the temptation to apply **non-commercial** restrictions (CC-BY-NC).
+Definition of "commercial" is vague and there is **no special exemption for
+research/teaching**.
+
+🚨 **NOT A LAWYER** 🚨 (so take this with a grain of salt)
 
 </div>
 <div class="footnote-left">
@@ -252,16 +305,8 @@ I work on open-source whenever I have some spare time
 
 ===============================================================================
 
-<h1 id="license">The license zoo</h1>
-
-<div class="r-stretch">
-</div>
-<div class="footnote-left">
-
 <i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
 [Back to the Topics](#toc)
-
-</div>
 
 ===============================================================================
 
@@ -278,6 +323,11 @@ I work on open-source whenever I have some spare time
 
 ===============================================================================
 
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
+
+===============================================================================
+
 <h1 id="data">Publishing your data</h1>
 
 <div class="r-stretch">
@@ -288,6 +338,11 @@ I work on open-source whenever I have some spare time
 [Back to the Topics](#toc)
 
 </div>
+
+===============================================================================
+
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
 
 ===============================================================================
 
@@ -304,9 +359,31 @@ I work on open-source whenever I have some spare time
 
 ===============================================================================
 
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
+
+===============================================================================
+
 <h1 id="qna">Leo, shut up and listen</h1>
 
 (AKA Question & Answer time)
+
+===============================================================================
+
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
+
+===============================================================================
+
+# Take home points
+
+1. Yes, it is scary to be open but also incredibly rewarding
+1. Any code/data is better than no code/data
+1. Make sure it has a license ("publicly available" != FAIR)
+1. Everyone's code was ugly at some point
+1. Start where you are, do what you can
+1. Publish now, improve on the next one
+1. Research and emulate good practice, pass it on
 
 ===============================================================================
 
