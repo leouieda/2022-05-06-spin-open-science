@@ -389,6 +389,29 @@ upload to repository (on submit or accept), cite in your paper using the DOI.
 
 <h1 id="code">Making open-source software</h1>
 
+**Levels** of open-source (all are important and better than none at all):
+
+1. In journal supplements
+1. On GitHub with 1 commit and a `README`
+1. On GitHub with a `README` and examples
+1. On GitHub with documentation, contributing guide, tests
+1. On GitHub... + package repository ([conda-forge](https://github.com/conda-forge/), [PyPI](https://pypi.org/), [CRAN](https://cran.r-project.org/web/packages/))
+1. On GitHub... + automated testing and deployment ([GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/))
+
+**Important:** Code without a license cannot be reused, modified, extended.
+
+===============================================================================
+
+<h1>Making open-source software: Learning</h1>
+
+* Software Sustainability Institute's [Research Software Camps](https://www.software.ac.uk/research-software-camps)
+* [Software Carpentry](https://software-carpentry.org/)
+  * Including the [Intermediate Software Skills lesson](https://carpentries-incubator.github.io/python-intermediate-development/)
+* [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
+* [Python Packaging Guide](https://packaging.python.org/en/latest/)
+* [Python Packages book](https://py-pkgs.org/)
+* Ask for help and chat in the [Software Underground](https://softwareunderground.org/)
+  * A bunch of open video tutorials as part of the [Transform](https://transform.softwareunderground.org) event
 
 ===============================================================================
 
@@ -417,6 +440,8 @@ upload to repository (on submit or accept), cite in your paper using the DOI.
 1. Start where you are, do what you can
 1. Publish now, improve on the next one
 1. Research and emulate good practice, pass it on
+1. Read [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)
+1. Join the [Software Underground](https://softwareunderground.org/)
 
 ===============================================================================
 
