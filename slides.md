@@ -111,6 +111,8 @@ As part of my job, I wear many hats (too many sometimes)
 
 Inverse problems in gravity & magnetics
 
+[compgeolab.org](https://www.compgeolab.org)
+
 </div>
 </div>
 <div class="footnote-left">
@@ -142,12 +144,14 @@ Inverse problems in gravity & magnetics
 
 Global geophysics, inverse problems, remote sensing, programming
 
+[leouieda.com/teaching](https://www.leouieda.com/teaching)
+
 </div>
 </div>
 <div class="footnote-left">
 
-A sample of my teaching activities, usually involving coding
-(see [leouieda.com/teaching](https://www.leouieda.com/teaching) for more)
+A sample of my teaching activities, usually involving coding, sometimes a bit
+of maths and field-work
 
 </div>
 
@@ -176,12 +180,14 @@ Open-source software:
 [GMT](https://www.generic-mapping-tools.org),
 [Nēnē](https://nene.leouieda.com/)
 
+[leouieda.com/software](https://www.leouieda.com/software)
+
 </div>
 </div>
 <div class="footnote-left">
 
-I work on open-source whenever I have some spare time
-(see [leouieda.com/software](https://www.leouieda.com/software))
+I work on open-source whenever I have some spare time, as part of research,
+teaching, and hobbies
 
 </div>
 
@@ -396,7 +402,8 @@ upload to repository (on submit or accept), cite in your paper using the DOI.
 1. On GitHub with a `README` and examples
 1. On GitHub with documentation, contributing guide, tests
 1. On GitHub... + package repository ([conda-forge](https://github.com/conda-forge/), [PyPI](https://pypi.org/), [CRAN](https://cran.r-project.org/web/packages/))
-1. On GitHub... + automated testing and deployment ([GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/))
+1. On GitHub... + automated testing and deployment
+   <br> ([GitHub Actions](https://github.com/features/actions), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/))
 
 **Important:** Code without a license cannot be reused, modified, extended.
 
@@ -412,6 +419,7 @@ upload to repository (on submit or accept), cite in your paper using the DOI.
 * [Python Packages book](https://py-pkgs.org/)
 * Ask for help and chat in the [Software Underground](https://softwareunderground.org/)
   * A bunch of open video tutorials as part of the [Transform](https://transform.softwareunderground.org) event
+* Get involved in an existing project ([Fatiando](https://www.fatiando.org/community/), [PyGMT](https://www.pygmt.org/latest/contributing.html) 😉)
 
 ===============================================================================
 
