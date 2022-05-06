@@ -349,7 +349,32 @@ Start with the [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/) tool.
 
 ===============================================================================
 
+<h1 id="openaccess">The colours of open-access</h1>
+
+===============================================================================
+
+<i class="fa fa-chevron-circle-left" style="margin-right: 10px"></i>
+[Back to the Topics](#toc)
+
+===============================================================================
+
 <h1 id="data">Publishing your data</h1>
+
+**What you could publish:** Original data you collected, existing FAIR data
+that you modified (see license terms).
+
+**Where to publish:** Many data repositories that give you DOIs
+<br>
+[Zenodo](https://zenodo.org) (CERN),
+[figshare](https://figshare.com/) (commercial but free),
+<br>
+[Dryad](https://datadryad.org) (nonprofit paid),
+[Pangaea](https://www.pangaea.de) (free domain specific)
+
+**Why publish?** Others can easily find, reuse, improve, and **cite** the data
+
+**How to publish:** Check with **all co-authors first**, [choose a license](#license),
+upload to repository (on submit or accept), cite in your paper using the DOI.
 
 <div class="r-stretch">
 </div>
